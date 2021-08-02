@@ -1,10 +1,10 @@
 #Add Function
-def addition:
-    pass
+def addition(x,y):
+    return x+y
 
 #Substract Function    
-def substraction:
-    pass
+def substraction(x,y):
+    return x-y
 
 #multiply function    
 def multiplication:
